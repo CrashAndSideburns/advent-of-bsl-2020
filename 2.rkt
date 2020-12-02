@@ -87,7 +87,7 @@
              (helper1-2 (substring str 1) c))]))
 
 
-;; return 1 if a password is valid, 0 if it is not
+
 ;; PART 2 SOLUTION
 
 (@htdf solve2)
