@@ -42,7 +42,7 @@
 (@signature Natural (listof Natural) -> Natural or false)
 ;; produce product of n with number in lon with which n sums to 2020, or false
 
-;(define (helper1-1 n lon) false)
+;(define (helper1-1 n lon) false) ;stub
 
 (define (helper1-1 n lon)
   (cond [(empty? lon) false]
@@ -81,7 +81,7 @@
 (@signature Natural (listof Natural) -> Natural or false)
 ;; produce product of n with numbers in lon with which n sums to 2020, or false
 
-;(define (helper2-1 n lon) false)
+;(define (helper2-1 n lon) false) ;stub
 
 (define (helper2-1 n lon)
   (cond [(empty? lon) false]
